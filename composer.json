@@ -1,0 +1,17 @@
+
+{
+    "name": "vtwen/tc",
+    "description": "wodeajdsfj",
+    "type":"library",
+    "license":"MIT",
+    "authors": [
+        {
+            "name": "ksjfk",
+            "email": "154@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "files":["p.php"]
+    }
+}
